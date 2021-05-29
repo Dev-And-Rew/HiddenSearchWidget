@@ -2,5 +2,8 @@
 
 Expanding/Narrowing images.
 
+GH-Pages: https://dev-and-rew.github.io/HiddenSearchWidget/
 
-![Image of Yaktocat](https://github.com/Dev-And-Rew/Expanding-Cards/blob/cd75d0865c652438fa7db968dd649acc21b133e7/ExpandingCards.PNG)
+
+![h1](https://github.com/Dev-And-Rew/HiddenSearchWidget/blob/146cf89c4354acd117aa956e3ac17ff999243e05/H1.PNG)
+![h2](https://github.com/Dev-And-Rew/HiddenSearchWidget/blob/146cf89c4354acd117aa956e3ac17ff999243e05/H2.PNG)
